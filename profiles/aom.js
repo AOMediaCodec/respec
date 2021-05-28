@@ -12,7 +12,6 @@ const modules = [
   import("../src/core/reindent.js"),
   import("../src/core/title.js"),
   import("../src/aom/headers.js"),
-  import("../src/aom/abstract.js"),
   import("../src/core/data-transform.js"),
   import("../src/core/data-abbr.js"),
   import("../src/core/inlines.js"),

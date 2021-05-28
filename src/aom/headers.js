@@ -48,7 +48,7 @@ export const name = "aom/headers";
 
 const status2text = {
   PD: "Pre-Draft",
-  WGD: "AOM Work Group Draft",
+  WGD: "AOM Working Group Draft",
   WGA: "AOM Working Group Approved Draft",
   FD: "AOM Final Deliverable",
 };
