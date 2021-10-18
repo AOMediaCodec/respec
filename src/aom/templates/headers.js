@@ -92,7 +92,7 @@ function renderCopyright(conf) {
   }
   return html`<p class="copyright">
     Copyright ${conf.publishYear},
-    <a href="https://www.w3.org/"
+    <a href="https://www.aomedia.org/"
       ><abbr title="The Alliance for Open Media">AOM</abbr></a
     ><br />
     Licensing information is available at http://aomedia.org/license/<br />
