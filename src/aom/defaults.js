@@ -24,11 +24,10 @@ const aomDefaults = {
   format: "markdown",
   logos: [
     {
-      src: "https://aomedia.org/assets/images/aomedia-icon-only.png",
+      src: "https://aomedia.org/assets/images/aomedia-logo-rgb.svg",
       alt: "AOM",
       id: "AOM",
-      height: 170,
-      width: 170,
+      width: 200,
       url: "https://aomedia.org/",
     },
   ],
